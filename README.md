@@ -9,7 +9,7 @@ Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 * click 'Unban'
 <br>
 <br>
-###  Congrats !!! <br> Your HWID Has been Spoofed
+### Congrats !!! Your HWID Has been Spoofed
 <br>
 <br>
 
