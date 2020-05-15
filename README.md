@@ -9,5 +9,5 @@ Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 * click 'Unban'
 * Enjoy
 <br>
-##  Disclaimer
+## Disclaimer
 Works for Games like Rust, Fortnite, Apex Legends, etc. that dont use Kernal Based Anti-Cheat [eg. Valorant - Riot Vanguard]
